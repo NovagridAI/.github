@@ -1,7 +1,8 @@
 ![Novagrid Logo](https://novagrid.cn/images/footerLogo.png) 
 
 ## 加入微信社区
-![wechat](https://github.com/user-attachments/assets/e38cd7c4-e008-464a-99fc-113f80abe197)
+![img_v3_02kn_dbb2c707-a44f-4073-bc33-62ccea95eb4g](https://github.com/user-attachments/assets/46f0380f-7a7f-4749-96ea-651e739e3be6)
+
 
 **Novagrid** 是一家来自中国的 AI 服务公司，致力于为客户提供创新、高效的技术解决方案。我们通过领先的算力支持、AI 部署、数据服务和技术方案输出，助力企业实现智能化转型与业务增长。
 
